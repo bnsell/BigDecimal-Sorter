@@ -5,7 +5,7 @@ class BigDecSorter{
 
     public static void main(String []argh)
     {
-        //Input
+        //Takes User Input (1. Size of list 2. Any decimals values)
         Scanner sc= new Scanner(System.in);
 		System.out.println("WELCOME TO THE BIG DECIMAL SORTER\nThis program will sort your BigDecimal list descendingly.\n");
 		System.out.println("How many items in your list?");
